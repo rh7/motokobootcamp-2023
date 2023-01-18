@@ -253,7 +253,7 @@ let f = func (x : Nat) : Nat {
 ##  Prerequisites
 If you are not familiar with HTTP, make sure to [watch this video](https://www.youtube.com/watch?v=iYM2zFP3Zn0) before reading further. 
 
-## 👍 HTTP request vs HTPP outcalls
+## 👍 HTTP request vs HTTP outcalls
 In this module, we will cover how canisters can be accessed through HTTP requests. This is a separate topic from the "HTTP Outcalls" lecture, which is planned for Day 5.
 
 **HTTP Request**: Canisters can handle incoming requests and serve web pages. <br/>
